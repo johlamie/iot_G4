@@ -12,24 +12,33 @@ GesTemps unit is placed in the same room as the air conditioner and the radiator
 ## Hardware
 
 ### Arduino
+![alt text](https://github.com/johlamie/iot_G4/blob/main/img/t%C3%A9l%C3%A9chargement.jpeg)
 
 ### Temperature sensor
+![alt text](https://github.com/johlamie/iot_G4/blob/main/img/dallas-capteur-de-temperature-1-wire-ds18b20.jpeg)
 
 ### LCD screen
+![alt text](https://github.com/johlamie/iot_G4/blob/main/img/t%C3%A9l%C3%A9chargement%20(1).jpeg)
 
 ### BreadBoard
+![alt text]()
 
 ### LED
+![alt text](https://github.com/johlamie/iot_G4/blob/main/img/led.jpeg)
 
 ### DC motor
+![alt text](https://github.com/johlamie/iot_G4/blob/main/img/motor.jpeg)
 
 ### Potentiometer
+![alt text](https://github.com/johlamie/iot_G4/blob/main/img/potentiometer.jpeg)
 
 ### Resistance
+![alt text](https://github.com/johlamie/iot_G4/blob/main/img/resistance.jpeg)
 
 ### Diode
+![alt text](https://github.com/johlamie/iot_G4/blob/main/img/diode.jpeg)
 
 
 ## Similar to TinkerCad carding
 
-![alt text](https://drive.google.com/file/d/1BC1611TJtaxXzT0acz2Wv0nCs54uB-_p/view?usp=sharing)
+![alt text](https://github.com/johlamie/iot_G4/blob/main/img/tink.png)
