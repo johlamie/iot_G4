@@ -12,3 +12,24 @@ GesTemps unit is placed in the same room as the air conditioner and the radiator
 ## Hardware
 
 ### Arduino
+
+### Temperature sensor
+
+### LCD screen
+
+### BreadBoard
+
+### LED
+
+### DC motor
+
+### Potentiometer
+
+### Resistance
+
+### Diode
+
+
+## Similar to TinkerCad carding
+
+![alt text](https://ibb.co/X7MskWN)
