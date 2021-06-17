@@ -8,3 +8,7 @@ If the temperature exceeds the maximum of what we had mentioned, the LCD screen 
 ## How it works
 
 GesTemps unit is placed in the same room as the air conditioner and the radiator. It then connects to the air conditioner and a heater in the same room. We then initialize an ideal temperature interval, we place sensors on the windows and doors of the room (to know how long they are open). When we open the windows to ventilate the room, the positioning sensors will allow us to know exactly when they have been opened and for how long. The box will now be able through integrated temperature sensors and sensors on the windows to regulate the ambient temperature of the room and also to make a detailed report to the user on its aeration time and the ideal moment to ventilate the room.
+
+## Hardware
+
+### Arduino
