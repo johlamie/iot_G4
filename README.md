@@ -39,6 +39,8 @@ GesTemps unit is placed in the same room as the air conditioner and the radiator
 ![alt text](https://github.com/johlamie/iot_G4/blob/main/img/diode.jpeg)
 
 
-## Similar to TinkerCad carding
+## TinkerCad Similation
 
 ![alt text](https://github.com/johlamie/iot_G4/blob/main/img/tink.png)
+
+Link : https://www.tinkercad.com/things/7t2B90GCmWf
