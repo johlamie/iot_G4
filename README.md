@@ -32,4 +32,4 @@ GesTemps unit is placed in the same room as the air conditioner and the radiator
 
 ## Similar to TinkerCad carding
 
-![alt text](https://ibb.co/X7MskWN)
+![alt text](https://drive.google.com/file/d/1BC1611TJtaxXzT0acz2Wv0nCs54uB-_p/view?usp=sharing)
